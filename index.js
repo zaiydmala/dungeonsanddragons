@@ -1,14 +1,3 @@
-/*
-Challenge
-1. Create a function called getDiceRollArray that uses a 
-   for loop to return an array of random numbers between 1-6. 
-2  The function should have diceCount as a parameter and the 
-   array it returns should be diceCount length.
-3  For testing purposes, call the function with a diceCount of 
-   3 and log out the result. 
-** check out hint.md for extra help! **
-*/
-
 function getDiceRollArray(diceCount){
     const newDiceRolls = []
     for(let i = 0; i < diceCount; i++){
