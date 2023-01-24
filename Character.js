@@ -48,4 +48,4 @@ class Character {
     }
 }
 
-export default character
+export default Character
