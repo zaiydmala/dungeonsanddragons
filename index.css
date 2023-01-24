@@ -202,3 +202,13 @@ button:focus { outline: 0 }
 .end-emoji{
     font-size: 80px;
 }
+
+@media only screen 
+    and (device-width : 360px) 
+    and (device-height : 780px) 
+    and (-webkit-device-pixel-ratio : 3) {
+        main {
+            display: flex;
+            flex-direction: column;
+        }
+}
