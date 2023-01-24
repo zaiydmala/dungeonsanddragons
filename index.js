@@ -1,5 +1,5 @@
 import characterData from './data.js'
-import Character from './Character.js'
+import Character from './character.js'
 
 let monstersArray = ["orc", "demon", "goblin"]
 let isWaiting = false
