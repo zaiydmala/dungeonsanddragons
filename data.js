@@ -1,3 +1,4 @@
+/* An object of character data that contains character objects */
 const characterData = {
     hero: {
         name: "Wizard",
